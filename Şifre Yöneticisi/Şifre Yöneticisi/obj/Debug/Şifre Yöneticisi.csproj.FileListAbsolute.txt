@@ -1,0 +1,10 @@
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.exe.config
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.exe
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.pdb
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.AssemblyReference.cache
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form1.resources
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Properties.Resources.resources
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.GenerateResource.cache
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.exe
+C:\Users\Bekir\source\repos\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.pdb
