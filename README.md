@@ -1,2 +1,2 @@
 # c-password-manager
-kendi database dosyanızı ekleyimp devanm edebilirsiniz
+hendi veri tabanı dosyanızı ekleyip devam edebilirsiniz
